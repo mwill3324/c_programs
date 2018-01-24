@@ -1,0 +1,54 @@
+#1.1
+
+
+A random number is generated and it adds to array 
+(a)ù. Array a is an int Array so there wont be any decimal points.  Array b2 &ùb1's type is double, so they are double Arrays and can have decimal points. The printf command can be then executed to output the b1 arrays. the (b1)ù array is initialized to a[i]/5;. because b1 is set to a[i]/5 when it is printed it causes the array number to print as an integer, compared to b2ù which is set to the array a[i] and divided b2[i] over 5 which lets it print with decimal places. 
+
+b2[i] = a[i]; b2[i] = b2[i]/5;
+
+a[0] = 44
+b1[0] = 8.000000
+b2[0] = 8.800000
+a[1] = 21
+b1[1] = 4.000000
+b2[1] = 4.200000
+a[2] = 5
+b1[2] = 1.000000
+b2[2] = 1.000000
+a[3] = 54
+b1[3] = 10.000000
+b2[3] = 10.800000
+a[4] = 90
+b1[4] = 18.000000
+b2[4] = 18.000000
+a[5] = 78
+b1[5] = 15.000000
+b2[5] = 15.600000
+a[6] = 3
+b1[6] = 0.000000
+b2[6] = 0.600000
+a[7] = 61
+b1[7] = 12.000000
+b2[7] = 12.200000
+a[8] = 45
+b1[8] = 9.000000
+b2[8] = 9.000000
+a[9] = 0
+b1[9] = 0.000000
+b2[9] = 0.000000
+a[10] = 71
+b1[10] = 14.000000
+b2[10] = 14.200000
+a[11] = 77
+b1[11] = 15.000000
+b2[11] = 15.400000
+a[12] = 49
+b1[12] = 9.000000
+b2[12] = 9.800000
+a[13] = 10
+b1[13] = 2.000000
+b2[13] = 2.000000
+a[14] = 7
+b1[14] = 1.000000
+b2[14] = 1.400000
+Press any key to continue . . .

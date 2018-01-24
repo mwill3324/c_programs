@@ -1,0 +1,10 @@
+
+Marcus Williams
+
+
+
+1.2
+
+-----The program waits for an input so it can start, the inputed number or integer is set to the delay, int delay, sleep2 then  sets its parameter int wait the same as the integer int delay. the time, or time_t is there to make the variables (goal)and (current). Goalis set to add both the (goal)and wait values to (goal), it goes and excutes during the while loop which stops when goal>current;
+The larger the numbers, the longer it usually takes.
+

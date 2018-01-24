@@ -1,0 +1,35 @@
+Marcuswilliams
+CSE 240
+
+#2.1
+f = 7         g = 8
+x = 1         y = 2
+i = 10         j = 11
+x = 1         y = 24
+
+#2.2
+
+f = 7         g = 8
+x = 1         y = 2
+i = 10         j = 11
+x = 1         y = -1
+
+#2.3
+f = 7         g = 8
+x = 1         y = 2
+i = 10         j = 11
+x = 1         y = 1
+
+#
+2.4
+Y=mac(10,11)
+
+#
+2.5
+Y= mac(11,11)
+
+#2.6
+GCC is runs differently because the way the process is different. The macro processing can have a different output than the function because of the way they compile a program.
+
+#2.7
+Y is initialized by from the mac function, it's processed in a different way between the two macro and function processing. What it can do because of this is make the integer increase differently, earlier or later in the process.

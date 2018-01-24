@@ -1,0 +1,30 @@
+
+
+Marcus Williams
+output
+
+
+
+input an integer for n: 15
+0
+# of iterations: 17
+
+ input an integer for n: 29
+0
+# of iterations: 18
+
+input an integer for n: 259
+0
+# of iterations: 122
+
+input an integer for n: 400
+1
+# of iterations: 27
+
+input an integer for n: 30000
+1
+# of iterations: 178
+
+
+
+
